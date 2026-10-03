@@ -5,7 +5,7 @@ Creates a 4 GB swap file by default on Debian systems with limited physical RAM.
 ## Install
 
 ```bash
-git clone https://github.com/fmr13460-lab/debian-swap-setup.git
+git clone https://github.com/fmr13460-lab/server.git
 cd debian-swap-setup
 chmod +x setup-swap.sh
 sudo ./setup-swap.sh
